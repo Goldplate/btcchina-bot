@@ -1,4 +1,4 @@
-BtcChinaBot
+Btc China Bot
 ===========
 
 This bot runs on [Btc China](https://vip.btcchina.com), aka the heaven of trading bots, where transaction fee is 0%.
@@ -10,7 +10,9 @@ I decided to open source the trading bot, hoping people can benefit from or, eve
 Usage
 ---
 
-  git clone https://github.com/zfei/BtcChinaBot
+'''
+git clone https://github.com/zfei/BtcChinaBot
+'''
 
 after it's downloaded, cd into BtcChinaBot, rename sample_settings.py to settings.py and make changes to it.
 
@@ -27,6 +29,8 @@ I've also spent much time (several nights right before a final exam) to tune the
 
 If this project helps you in anyway, please kindly make any donation to the following bitcoin address:
 
-  1BjEJBytssDg6WpCnYDc9ini5ecZevJ3Q
+'''
+1BjEJBytssDg6WpCnYDc9ini5ecZevJ3Q
+'''
 
 It's much appreciated.
