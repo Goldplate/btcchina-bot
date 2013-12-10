@@ -42,7 +42,7 @@ I've made more than 5 changes to it to actually make it work.
 
 I've also spent much time (several nights right before a final exam) to tune the program so that it behaves.
 
-If this project helps you in anyway, please kindly make any donation to the following bitcoin address:
+If this project helps you in anyway, please kindly consider a donation to the following bitcoin address:
 
 ``` bash
 1BjEJBytssDg6WpCnYDc9ini5ecZevJ3Q
