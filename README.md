@@ -35,11 +35,7 @@ The use of this program is subject to MIT LICENSE, please refer to LICENSE for a
 Donation
 ---
 
-The official API methods provided by BTC China is inconsistent with their documentation and actual scenarios.
-
-I've made more than 5 changes to it to actually make it work, plus numerous wrappers in bot.py to make sure the ridiculous API doesn't mess things up.
-
-I've also spent much time (several nights right before a final exam) to tune the program so that it behaves.
+The official API methods provided by BTC China is inconsistent with their documentation and actual scenarios. I've made more than 5 changes to it to actually make it work, plus numerous wrappers in bot.py to make sure the ridiculous API doesn't mess things up. I've also spent much time (including several nights right before a final exam) to tune the program so that it behaves.
 
 If this project helps you in anyway, please kindly consider a donation to the following bitcoin address:
 
