@@ -2,9 +2,7 @@ BTC China Bot
 ===========
 
 This bot runs on [BTC China](https://vip.btcchina.com), aka the heaven of trading bots, where transaction fee is 0%.
-Currently it only follows simple heuristics (buy low and sell high). The assumption for this to work is that the market price is constantly changing, you can always buy at highest bid price and sell a little lower than lowest ask price in no time.
-
-I decided to open source the trading bot, hoping people can benefit from or, even better, contribute to the project and make it better.
+Currently it only follows simple heuristics (buy low and sell high), and acts as a scalper. Indicators will be added.
 
 Usage
 ---
@@ -35,7 +33,7 @@ The use of this program is subject to MIT LICENSE, please refer to LICENSE for a
 Donation
 ---
 
-The official API methods provided by BTC China is inconsistent with their documentation and actual scenarios. I've made more than 5 changes to it to actually make it work, plus numerous wrappers in bot.py to make sure the ridiculous API doesn't mess things up. I've also spent much time (including several nights right before a final exam) to tune the program so that it behaves.
+The official API methods provided by BTC China is inconsistent with their documentation and actual scenarios. I've made more than 5 changes to it to actually make it work, plus numerous wrappers in bot.py to make sure the ridiculous API doesn't mess things up.
 
 If this project helps you in anyway, please kindly consider a donation to the following bitcoin address:
 
